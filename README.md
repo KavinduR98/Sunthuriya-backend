@@ -11,3 +11,7 @@ Java + Spring Boot (Microservices) backend for the Restaurant Concession & Order
 - **Kitchen View**: Real-time kitchen operations dashboard
 - **Staff Management**: User authentication and role-based access
 - **Real-time Notifications**: WebSocket-based live updates
+
+## System Design
+<img width="794" height="839" alt="Santhuriya App-System design" src="https://github.com/user-attachments/assets/d032351d-26ae-4940-b053-d1ec3d793ff8" />
+
